@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/4249e6f6-d21e-489a-b43d-ae32e8ecb3b9r.com/view/lag-train-inabakumori-inaba-lagtrain-gif-19137644"  />
+  <img height="200" src="![](https://github.com/ImWaquinUp/ImWaquinUp/blob/main/gif.repo)"  />
 </div>
 
 ###
